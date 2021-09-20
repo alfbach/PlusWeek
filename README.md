@@ -29,7 +29,9 @@ Okt 2021
 
 15:00		Migration Workload to OpenShift
 
-16:30		Introduction to GroupWork
+16:00		Introduction to GroupWork
+
+16:30		END OF DAY ONE
 
 ### Day 2:
 
