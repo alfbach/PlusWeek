@@ -2,11 +2,19 @@
 
 
 # Red Hat OpenShift Plus Week
-## remote version
+## remote version - Dec 2021
 
-## https://www.menti.com/e1tqzb6n8b
+## Mentimeter link
 
-Dec 2021
+### https://www.menti.com/e1tqzb6n8b
+
+## BlueJeans Conf Tool
+
+### https://bluejeans.com/861592285/
+
+## Want a sticker ?
+
+### https://events.redhat.com/profile/form/index.cfm?PKformID=0x400502abcd
 
 ## Agenda:
 
