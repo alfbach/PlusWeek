@@ -2,11 +2,23 @@
 
 
 # Red Hat OpenShift Plus Week
-## remote version
+## remote version - Dec 2021
 
-## https://www.menti.com/wq7y7j1wjd
+## Mentimeter link
 
-Okt 2021
+### https://www.menti.com/e1tqzb6n8b
+
+## BlueJeans Conf Tool
+
+### https://bluejeans.com/861592285/
+
+## EtherPad Link
+
+### https://pad.rhepds.com/p/room1
+
+## Want a sticker ?
+
+### https://events.redhat.com/profile/form/index.cfm?PKformID=0x400502abcd
 
 ## Agenda:
 
@@ -47,11 +59,13 @@ Okt 2021
 
 12:00		BREAK
 
-13:30		GroupWork
+13:00		GroupWork
 
-15:30		ShowTime !!
+15:00		ShowTime !!
 
-17:30		Optional Fire Side Chat "OpenShift Usecases" Virtual Pub
+16:00		Whats comming to OpenShift ? 	(otional)
+
+17:30		Virtual Pub			(optonal)	
 
 ### Day 3:
 
