@@ -53,7 +53,7 @@
 
 9:00		Introduction to GroupWork
 
-9:15		Split into BJ Groups and choose a scenarion 	
+9:15		Split into BJ Groups and work on a given scenarion 	
 
 10:00		Story Telling
 
