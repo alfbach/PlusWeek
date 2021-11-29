@@ -4,7 +4,7 @@
 # Red Hat OpenShift Plus Week
 ## remote version
 
-## https://www.menti.com/wq7y7j1wjd
+## https://www.menti.com/e1tqzb6n8b
 
 Dec 2021
 
