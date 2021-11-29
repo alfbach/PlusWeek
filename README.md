@@ -59,7 +59,7 @@
 
 15:00		ShowTime !!
 
-16:00		Whats commin to OpenShift ? 	(otional)
+16:00		Whats comming to OpenShift ? 	(otional)
 
 17:30		Virtual Pub			(optonal)	
 
