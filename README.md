@@ -12,6 +12,10 @@
 
 ### https://bluejeans.com/861592285/
 
+## EtherPad Link
+
+### https://pad.rhepds.com/p/room1
+
 ## Want a sticker ?
 
 ### https://events.redhat.com/profile/form/index.cfm?PKformID=0x400502abcd
