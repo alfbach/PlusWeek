@@ -20,6 +20,10 @@
 
 ### https://events.redhat.com/profile/form/index.cfm?PKformID=0x400502abcd
 
+## Group Setup
+
+### https://github.com/alfbach/PlusWeek/blob/main/GroupWork/groups.pdf
+
 ## Agenda:
 
 
