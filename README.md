@@ -55,11 +55,13 @@
 
 12:00		BREAK
 
-13:30		GroupWork
+13:00		GroupWork
 
-15:30		ShowTime !!
+15:00		ShowTime !!
 
-17:30		Optional Fire Side Chat "OpenShift Usecases" Virtual Pub
+16:00		Whats commin to OpenShift ? 	(otional)
+
+17:30		Virtual Pub			(optonal)	
 
 ### Day 3:
 
