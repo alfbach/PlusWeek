@@ -97,6 +97,12 @@ or
 
 13:30		Advanced Development
 
+				Opererators and Helm Charts
+				
+				CI/CD and Tekton
+				
+				GitOps
+
 16:00		End
 
 ### Day 4:
