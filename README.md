@@ -107,7 +107,13 @@ or
 
 ### Day 4:
 
-9:00		Introduction to GroupWork part 2
+9:00		left over from yesterday:
+
+		Storage Foundation
+		
+		GitOps
+		
+10:00		Introduction to GroupWork part 2
 
 9:15		Start GroupWork 	
 
@@ -118,6 +124,12 @@ or
 15:30		ShowTime !!
 
 17:00		End Day 4
+
+17:10		Optional: Uscases for OpenShift
+
+		Innovation without limitation
+		
+18:00		End
 
 ### Day 5:
 
