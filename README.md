@@ -115,11 +115,11 @@ or
 		
 10:00		Introduction to GroupWork part 2
 
-9:15		Start GroupWork 	
+10:15		Start GroupWork 	
 
 12:00		BREAK
 
-13:30		GroupWork
+13:00		GroupWork
 
 15:30		ShowTime !!
 
