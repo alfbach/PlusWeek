@@ -109,11 +109,19 @@
 
 ### Day 5:
 
-10:00		Integration
-		
-			API AMangement (3Scale)
+10:00		Red Hat Integration
 			
-			Database Integration (FUSE)
+			What is RH Integration
+
+			Business Value
+
+			Products
+
+			Recent Updates
+
+			Partner Events
+
+			Lab Demo
 
 12:00		BREAK
 
