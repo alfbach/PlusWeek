@@ -4,14 +4,6 @@
 
 ## remote version - FEB 2022 
 
-## Link to the Roadmap presentation
-
-### http://Twitch.tv/redhatopenshift
-
-or
-
-### https://www.youtube.com/watch?v=OUFOU8sQahc
-
 ## Mentimeter link
 
 ### https://www.menti.com/e1tqzb6n8b
