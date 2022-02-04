@@ -1,16 +1,8 @@
 <img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
 
-
 # Red Hat OpenShift Plus Week
-## remote version - Dec 2021
 
-## Link to the Roadmap presentation
-
-### http://Twitch.tv/redhatopenshift
-
-or
-
-### https://www.youtube.com/watch?v=OUFOU8sQahc
+## remote version - FEB 2022 
 
 ## Mentimeter link
 
@@ -20,17 +12,10 @@ or
 
 ### https://bluejeans.com/861592285/
 
-## EtherPad Link
-
-### https://pad.rhepds.com/p/room1
-
 ## Want a sticker ?
 
 ### https://events.redhat.com/profile/form/index.cfm?PKformID=0x400502abcd
 
-## Group Setup
-
-### https://github.com/alfbach/PlusWeek/blob/main/GroupWork/groups.pdf
 
 ## Agenda:
 
@@ -75,9 +60,7 @@ or
 
 15:00		ShowTime !!
 
-16:00		Whats comming to OpenShift ? 	(otional)
-
-17:30		Virtual Pub			(optonal)	
+17:00		End	
 
 ### Day 3:
 
@@ -103,39 +86,34 @@ or
 				
 				GitOps
 
-16:00		End
+17:00		End Day 3
 
 ### Day 4:
-
-9:00		left over from yesterday:
-
-		Storage Foundation
 		
-		GitOps
-		
-10:00		Introduction to GroupWork part 2
+10:00		Building an Hybrid Cloud Architecture with OpenShift
 
-10:15		Start GroupWork 	
+11:30		Managed OpenSHift running on AZURE and AWS 		
 
 12:00		BREAK
 
-13:00		GroupWork
-
-15:30		ShowTime !!
+13:00		Additional Developement Options
+ 			
+			Quarkus, 
+			
+			Service Mesh, 
+			
+			Serverless		
 
 17:00		End Day 4
 
-17:10		Optional: Uscases for OpenShift
-
-		Innovation without limitation
-		
-18:00		End
 
 ### Day 5:
 
-9:00		Additional Dev Options
-
-		 		Quarkus, Service Mesh, Serverless
+1ß0:00		Integration
+		
+			API AMangement (3Scale)
+			
+			Database Integration (FUSE)
 
 12:00		BREAK
 
