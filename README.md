@@ -58,7 +58,7 @@
 
 13:00		GroupWork
 
-15:00		ShowTime !!
+15:30		ShowTime !!
 
 17:00		End	
 
@@ -109,7 +109,7 @@
 
 ### Day 5:
 
-1ß0:00		Integration
+10:00		Integration
 		
 			API AMangement (3Scale)
 			
