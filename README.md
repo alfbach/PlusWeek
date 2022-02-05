@@ -12,6 +12,10 @@
 
 ### https://bluejeans.com/861592285/
 
+## Hands On Enviroment
+
+### https://developers.redhat.com/learn/openshift/deploy-spring-application-openshift
+
 ## Want a sticker ?
 
 ### https://events.redhat.com/profile/form/index.cfm?PKformID=0x400502abcd
