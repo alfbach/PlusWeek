@@ -38,28 +38,28 @@
 
 15:00		Migration Workload to OpenShift
 
-16:00		Introduction to GroupWork
+16:30		Introduction Hands On
 
-16:30		END OF DAY ONE
+			https://developers.redhat.com/learn/openshift/deploy-spring-application-openshift
 
-### Day 2:
+17:00		END OF DAY ONE
 
-9:00		Introduction to GroupWork
-
-9:15		Split into BJ Groups and work on a given scenarion 	
+### Day 2:	
 
 10:00		Story Telling
 
 11:00		BREAK
 
-11:10		GroupWork
+11:10		Hands On
+
+			https://developers.redhat.com/learn/openshift/deploy-spring-application-openshift
 
 12:00		BREAK
 
-13:00		GroupWork
+13:00		Hands On
 
-15:30		ShowTime !!
-
+			https://developers.redhat.com/learn/openshift/deploy-spring-application-openshift
+			
 17:00		End	
 
 ### Day 3:
