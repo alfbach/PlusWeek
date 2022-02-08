@@ -80,9 +80,9 @@
 
 				Storage Foundation
 
-12:00		BREAK
+12:45		BREAK
 
-13:30		Advanced Development
+14:00		Advanced Development
 
 				Opererators and Helm Charts
 				
