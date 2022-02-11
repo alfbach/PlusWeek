@@ -129,12 +129,12 @@
 
 12:00		BREAK
 
-13:30		Integrations
+13:00		Integrations
 
 				IDM, SIEM, Monitoring,
 
-15:00		Adv. Usecases
+14:00		Adv. Usecases
 
 				IoT, AI/ML, ...
 
-16:00		Q&A and End 
+15:00		Q&A and End 
